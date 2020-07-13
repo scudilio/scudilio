@@ -1,4 +1,4 @@
-**Juliana Scudilio** 👩‍💻
+ # **Juliana Scudilio** 👩‍💻
 ### Olá 👋
 
 Sou Juliana Scudilio, Fundadora da Flai Inteligência Artificial.
