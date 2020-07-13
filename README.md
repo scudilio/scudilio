@@ -5,11 +5,10 @@ Sou Juliana Scudilio, fundadora da Flai Inteligência Artificial, empresa de con
 
 Quem sou eu?
 
-- 💻 Data Science 🥰.
+- 👩‍💻 Data Scientist 🥰.
 - 📊 Consultora.
 - 📚 Pesquisadora.
-- 🐍 Python.
-- 📈 Software R.
+- 💻 Programo em Python 🐍 e R 📈
 - 👩‍🏫 Professora.
 - 👩‍🎓 Bacharel em Estatística pela UFSCar.
 - 🎓 Mestre em Estatística pelo ICMC-USP.
