@@ -1,7 +1,7 @@
  # **Juliana Scudilio** 👩‍💻
 ### Olá!! 👋
 
-Sou Juliana Scudilio, fundadora da Flai Inteligência Artificial empresa de consultoria e treinamento.
+Sou Juliana Scudilio, fundadora da Flai Inteligência Artificial, empresa de consultoria e treinamento.
 
 Quem sou eu?
 
