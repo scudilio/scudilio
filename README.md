@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**scudilio/scudilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Juliana Scudilio, Fundadora e Cientista de Dados da Flai Inteligência Artificial.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 Consultora em Data Science
+- 💬 Pesquisadora na área de Machine Learning e Análise de Sobrevivência
+- 📫 Professora
+- 🔭 Bacharel em Estatística pela UFSCar
+- 🌱 Mestre em Estatística pelo ICMC-USP
+- 👯 Doutoranda em Estatística pelo ICMC-USP
+
+
