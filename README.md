@@ -8,7 +8,7 @@ Quem sou eu?
 - 👩‍💻 Data Scientist 🥰.
 - 📊 Consultora.
 - 📚 Pesquisadora.
-- 💻 Programo em Python 🐍 e R 📈
+- 💻 Programo em Python 🐍 e R 📈.
 - 👩‍🏫 Professora.
 - 👩‍🎓 Bacharel em Estatística pela UFSCar.
 - 🎓 Mestre em Estatística pelo ICMC-USP.
