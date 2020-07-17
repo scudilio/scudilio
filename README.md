@@ -11,4 +11,4 @@ Sou Juliana Scudilio, fundadora da Flai Inteligência Artificial, empresa de con
 - 👩‍🏫 Professora.
 - 👩‍🎓 Bacharel em Estatística pela UFSCar.
 - 🎓 Mestre em Estatística pelo ICMC-USP.
-- 🍾 Doutoranda em Estatística pelo ICMC-USP.
+- 🍾 Doutora em Estatística pelo ICMC-USP.
