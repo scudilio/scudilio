@@ -1,7 +1,7 @@
  # **Hi, I'm Juliana** 👩‍💻 👋
 ###  
 ![GitHub Logo](ju1_git.png)
-Format: ![Alt Text](https://github.com/scudilio/scudilio/blob/master/)
+(https://github.com/scudilio/scudilio/blob/master/)
 
 ## Who am I?
 
@@ -26,14 +26,17 @@ Format: ![Alt Text](https://github.com/scudilio/scudilio/blob/master/)
 
 ## Find me around the world :earth_americas:
 
-![Alt Text](https://www.joypixels.com/profiles/animated/woman-dancing)
+*  [Linkedin]( https://www.linkedin.com/in/juliana-scudilio/)
+*  [Instagram]( https://www.instagram.com/flai.inteligencia.artificial/)
+*  [Blog] (https://www.flai.com.br/juscudilio/)
 
-*  https://www.linkedin.com/in/juliana-scudilio/ - automatic!
-[Linkedin]( https://www.linkedin.com/in/juliana-scudilio/)
 
 ## **My project**
 
-
+* [Churn Model] (https://github.com/scudilio/Churn_model)
+* [Data Visualization] (https://github.com/scudilio/Visualizacao_de_dados)
+* [WebScrapin](https://github.com/scudilio/webscraping_wordcloud)
+* [TextMining](https://github.com/scudilio/text_mining)
 
 
 
