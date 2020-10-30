@@ -2,17 +2,16 @@
 ###  
 ![GitHub Logo](ju1_git.png)
 Format: ![Alt Text](https://github.com/scudilio/scudilio/blob/master/)
-Sou Juliana Scudilio, fundadora da Flai Inteligência Artificial, empresa de consultoria e treinamento.
 
 ## Who am I?
 
 * 👩‍💻 Data Scientist 🥰.
-* 📊 Consultora.
-* 📚 Pesquisadora.
-* 👩‍🏫 Professora.
-* 👩‍🎓 Bacharel em Estatística pela UFSCar.
-* 🎓 Mestre em Estatística pelo ICMC-USP.
-* 🍾 Doutora em Estatística pelo ICMC-USP.
+* 📊 Business consultant.
+* 📚 Researcher.
+* 👩‍🏫 Teacher.
+* 👩‍🎓 Bachelor of Statistics -UFSCar.
+* 🎓 Master in Statistic - ICMC-USP.
+* 🍾 PHD in Statistic - ICMC-USP.
 
 ## Skills 👩‍💻
 
@@ -22,12 +21,15 @@ Sou Juliana Scudilio, fundadora da Flai Inteligência Artificial, empresa de con
 * 💻 SAS.
 * 🧮 Power BI.
 * 🔮 Machine Learning. 
-* 📊 Visualização de Dados.
-* 🧪 Análise de Sobrevivência.
+* 📊 Data Visualization
+* 🧪 Survival Analysis.
 
 ## Find me around the world :earth_americas:
 
 ![Alt Text](https://www.joypixels.com/profiles/animated/woman-dancing)
+
+*  https://www.linkedin.com/in/juliana-scudilio/ - automatic!
+[Linkedin]( https://www.linkedin.com/in/juliana-scudilio/)
 
 ## **My project**
 
