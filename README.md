@@ -1,10 +1,10 @@
- # ** Hi, I'm Juliana Scudilio** 👩‍💻 👋
+ # **Hi, I'm Juliana** 👩‍💻 👋
 ###  
 ![GitHub Logo](ju1_git.png)
 Format: ![Alt Text](https://github.com/scudilio/scudilio/blob/master/)
 Sou Juliana Scudilio, fundadora da Flai Inteligência Artificial, empresa de consultoria e treinamento.
 
-## Quem sou eu?
+## Who am I?
 
 * 👩‍💻 Data Scientist 🥰.
 * 📊 Consultora.
@@ -14,7 +14,7 @@ Sou Juliana Scudilio, fundadora da Flai Inteligência Artificial, empresa de con
 * 🎓 Mestre em Estatística pelo ICMC-USP.
 * 🍾 Doutora em Estatística pelo ICMC-USP.
 
-## Habilidades 👩‍💻
+## Skills 👩‍💻
 
 * 🐍 Python.
 * 📈 R.
@@ -25,9 +25,13 @@ Sou Juliana Scudilio, fundadora da Flai Inteligência Artificial, empresa de con
 * 📊 Visualização de Dados.
 * 🧪 Análise de Sobrevivência.
 
-## Links
+## Find me around the world :earth_americas:
 
-## **Projetos**
+![Alt Text](https://www.joypixels.com/profiles/animated/woman-dancing)
+
+## **My project**
+
+
 
 
 
