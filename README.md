@@ -30,7 +30,7 @@
 *  [Blog](https://www.flai.com.br/juscudilio/)
 
 
-## **My project**
+## **My projects**
 
 * [Churn Model](https://github.com/scudilio/Churn_model)
 * [Data Visualization](https://github.com/scudilio/Visualizacao_de_dados)
