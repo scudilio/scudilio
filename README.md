@@ -2,7 +2,7 @@
 ###  
 ![GitHub Logo](ju1_git.png)
 
-## Who am I?
+## Who am I? 
 
 * 👩‍💻 Data Scientist 🥰.
 * 📊 Business consultant.
@@ -34,7 +34,7 @@
 
 * [Churn Model](https://github.com/scudilio/Churn_model)
 * [Data Visualization](https://github.com/scudilio/Visualizacao_de_dados)
-* [WebScrapin](https://github.com/scudilio/webscraping_wordcloud)
+* [WebScraping](https://github.com/scudilio/webscraping_wordcloud)
 * [TextMining](https://github.com/scudilio/text_mining)
 
 
